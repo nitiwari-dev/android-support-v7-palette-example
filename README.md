@@ -1,6 +1,6 @@
 # android-support-v7-palette-example
 
-This is demostration of how to extract color from bitmap using android palette support library. As show below.
+This is demostration of how to extract color from `bitmap` using android palette support library. As show below.
 
 ![first_01](https://cloud.githubusercontent.com/assets/10304040/10637105/3df3df5a-7821-11e5-8706-91c39ef6ea57.png)
 ![second](https://cloud.githubusercontent.com/assets/10304040/10637104/3df3c0c4-7821-11e5-9fee-0a0769f51df8.png)
